@@ -4,6 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
+<img src="https://github.com/renamcomn/youtubeClone/blob/master/images/prints/home.PNG" widhtt="300"></img>
+<img src="https://github.com/renamcomn/youtubeClone/blob/master/images/prints/search.PNG" widhtt="300"></img>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
